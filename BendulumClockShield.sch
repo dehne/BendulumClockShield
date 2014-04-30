@@ -2711,13 +2711,13 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="P1" library="dehne" deviceset="M02" device="PTH" value="Clock"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="" value="1N4002"/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="10UF-25V-20%(PTH)" device="" value="10uF"/>
-<part name="C2" library="SparkFun-Capacitors" deviceset="CAP" device="PTH" value="0.1uF"/>
+<part name="C2" library="SparkFun-Capacitors" deviceset="CAP" device="PTH1" value="0.1uF"/>
 <part name="P2" library="dehne" deviceset="M03" device="PTH" value="IR Recv"/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="10UF-25V-20%(PTH)" device="" value="47uF"/>
 <part name="D2" library="dehne" deviceset="LED-RGB-CC-THRU" device="DIFFUSE" value="RGB-LED"/>
 <part name="U$1" library="dehne" deviceset="ARDUINO-SHIELD" device=""/>
 <part name="S1" library="dehne" deviceset="TAC_SWITCH" device="PTH" value="Reset"/>
-<part name="R1" library="dehne" deviceset="R-US_" device="" value="47R"/>
+<part name="R1" library="dehne" deviceset="R-US_" device="" value="18R"/>
 <part name="R3" library="dehne" deviceset="R-US_" device="" value="1k"/>
 <part name="R4" library="dehne" deviceset="R-US_" device="" value="47k"/>
 <part name="R5" library="dehne" deviceset="R-US_" device="" value="47k"/>
