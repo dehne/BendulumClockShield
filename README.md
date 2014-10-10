@@ -8,3 +8,7 @@ This is the more complex of two Arduino shields that implement the hardware inte
 Arduino Uno that drives a bendulum clock and the rest of the bendulum clock. The other is the 
 EscapementShield. This one is more complex in that it implements a battery backup. If the power 
 fails, the clock keeps going!
+
+The Rev H version adds a header for the Sparkfun TMP-102 temperature sensor (for temperature 
+compensated operation) and removes the potentiometers for the clock and coil as experiments 
+have shown it is possible to get the needed control in software.
